@@ -8,5 +8,5 @@
         #music.play_tone(Note.C, BeatFraction.Half)
     #else:
         #light.clear()
-while True:
-    music.play_melody("E B C5 A B G A F ", 120)
+#while True:
+ #   music.play_melody("C C E D C C E D C C C C G G E D B B G G E D B B", 120)
